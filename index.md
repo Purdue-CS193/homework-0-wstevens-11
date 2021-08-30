@@ -1,33 +1,6 @@
-## Welcome to William Stevens' Page
+## William Stevens' First CS193 Homework
 
-### Markdown
-
-Markdown cells are where you can put text 
-
-```markdown
-Markdown Text Syntax:
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-My Pages site will use the layout and styles from the Jekyll theme I have selected in my [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### My Favorite things about CS193
+- I like the cool desks that can move around
+- The instructors are cool and are closer to my age
+- I like the WALC building (except for the wifi connection downstairs)
